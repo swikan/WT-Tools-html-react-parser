@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/node": "20.8.9",
+    "@types/node": "20.19.17",
     "@types/react-dom": "18.2.14",
     "html-react-parser": "../../",
     "react": "18.2.0",
